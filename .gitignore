@@ -38,3 +38,6 @@ node_modules/
 npm-debug.log
 
 #CocoaPods
+
+#VS Code
+.vscode
